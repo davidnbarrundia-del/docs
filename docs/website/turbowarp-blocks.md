@@ -3,7 +3,7 @@ slug: /blocks
 hide_table_of_contents: true
 ---
 
-# TurboWarp Blocks
+# TurboWarp Blo
 
 TurboWarp has a section of blocks that allows you to use certain features previously not accessible to Scratch projects.
 
